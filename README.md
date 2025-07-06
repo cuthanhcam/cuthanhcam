@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm Cu Thanh Cam  
+# 👋 Hi, I'm Cu Thanh Cam  
 
 **A passionate .NET developer with a love for clean code and problem-solving.**  
 *"Make it run, make it right, make it fast."*
@@ -9,47 +9,21 @@
 
 ## 🚀 About Me  
 
-I'm a **third-year Software Engineering student** with a deep passion for **.NET development** and building scalable applications. My journey started with a curiosity about how technology works, which grew into a commitment to crafting efficient and impactful software solutions.  
-
-I enjoy **problem-solving, writing clean code, and continuously learning** to improve my skills. Currently, I'm focused on mastering **ASP.NET Core, C#, and Entity Framework**, while also exploring **modern web technologies**.  
+I'm a dedicated **.NET developer** focused on building scalable, efficient applications with **ASP.NET Core, C#, and Entity Framework**. I love writing clean code, solving problems, and continuously learning new technologies. My goal is to become a skilled **.NET Software Engineer**, contributing to innovative projects.
 
 ## 💡 Interests & Goals  
-
-- 🌱 **Continuous Learning** – Exploring new technologies, design patterns, and best practices.  
-- 💻 **.NET Development** – Specializing in **backend development** while improving my **frontend skills**.  
-- ⚡ **Scalability & Performance** – Optimizing applications for efficiency and maintainability.  
-- 🤝 **Collaboration & Open Source** – Sharing knowledge and working on impactful projects.  
+- 🌱 Mastering **backend development** and exploring **frontend technologies**.  
+- ⚡ Optimizing applications for **scalability and performance**.  
+- 🤝 Contributing to **open-source** and collaborative projects.  
 
 ## 🛠 Skills & Technologies  
-
-### 🔹 Backend Development  
-- ⚙️ **Frameworks**: .NET, ASP.NET Core (MVC & Web API)  
-- ⌨️ **Languages**: C#  
-- 🛢️ **ORM & Data Access**: Entity Framework Core, LINQ  
-- 🔐 **Authentication**: Identity Core, JWT
-
-### 🔹 Database & Cloud  
-- 🗃️ **SQL Databases**: SQL Server, Firebase
-- ☁️ **Cloud Storage**: Cloudinary  
-
-### 🔹 DevOps & Tools  
-- 🔄 **Version Control**: Git, GitHub  
-- 🐳 **Containerization**: Docker  
-- 📡 **API Testing**: Postman, Swagger  
-
-### 🔹 Frontend & UI
-- 🌐 **Web Basics**: HTML, CSS, JavaScript  
-- 🎨 **CSS Frameworks**: Bootstrap, Tailwind CSS (Learning)  
-- ⚛️ **Frontend Framework**: React (Learning)  
+- **Backend**: .NET, ASP.NET Core, C#, Entity Framework Core, LINQ, JWT  
+- **Database**: SQL Server, Firebase, Cloudinary  
+- **DevOps**: Git, GitHub, Docker, Postman, Swagger  
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS (learning), React (learning)
 
 ## 🏆 Achievements  
-Beyond coding, I challenge myself through **coding competitions**, including the **2024 Student Olympiad in Informatics (Procon Programming Contest)**, where I sharpen my problem-solving and algorithmic thinking. I thrive in collaborative environments and enjoy contributing to meaningful projects.  
-
-## 🎯 Career Goals  
-
-I aim to become a **.NET Software Engineer**, focusing on **backend development and scalable web applications**. I'm eager to work on real-world projects, collaborate with skilled teams, and contribute to innovative software solutions.  
-
-Currently, I'm seeking **internship and fresher opportunities** where I can apply my knowledge, grow professionally, and make a meaningful impact.  
+- Competed in the **2024 Student Olympiad in Informatics (Procon)**, honing my problem-solving and algorithmic skills.
 
 ## 📬 Connect with Me  
 
