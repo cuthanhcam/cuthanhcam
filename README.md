@@ -23,38 +23,47 @@ I value clean design, continuous improvement, and open discussions that turn com
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=cuthanhcam&show_icons=true&hide_border=true&bg_color=00000000&text_color=9f9f9f&icon_color=6e7681&title_color=adbac7&count_private=true&rank_icon=github&line_height=28" 
-    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=cuthanhcam&show_icons=true&hide_border=true&bg_color=00000000&text_color=9f9f9f&icon_color=6e7681&title_color=adbac7&count_private=true&rank_icon=github&line_height=20" 
+    height="190" 
     alt="Profile Stats" 
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuthanhcam&layout=compact&hide_border=true&bg_color=00000000&text_color=9f9f9f&title_color=adbac7&langs_count=8" 
-    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuthanhcam&layout=compact&hide_border=true&bg_color=00000000&text_color=9f9f9f&title_color=adbac7&langs_count=6" 
+    height="190" 
     alt="Languages Overview" 
   />
 </div>
 
-
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://github.com/cuthanhcam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" />
+  <a href="https://linkedin.com/in/cuthanhcam" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+         width="28"
+         style="filter: invert(70%);" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/cuthanhcam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" />
+  <a href="https://discord.com/users/cuthanhcam" title="Discord">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
+         width="28"
+         style="filter: invert(70%);" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/cuthanhcam">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="32" />
+  <a href="mailto:cuthanhcam04@gmail.com" title="Email">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+         width="28"
+         style="filter: invert(70%);" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tc.jrk">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="32" />
+  <a href="https://www.facebook.com/cuthanhcam" title="Facebook">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
+         width="28"
+         style="filter: invert(70%);" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:cuthanhcam04@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" />
+  <a href="https://www.instagram.com/tc.jrk" title="Instagram">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+         width="28"
+         style="filter: invert(70%);" />
   </a>
 </p>
