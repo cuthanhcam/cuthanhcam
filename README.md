@@ -38,32 +38,42 @@ I value clean design, continuous improvement, and open discussions that turn com
 
 <p align="center">
   <a href="https://linkedin.com/in/cuthanhcam" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
-         width="28"
-         style="filter: invert(70%);" />
+    <picture>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
+           width="28"
+           style="filter: invert(70%);" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://discord.com/users/cuthanhcam" title="Discord">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
-         width="28"
-         style="filter: invert(70%);" />
+    <picture>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
+           width="28"
+           style="filter: invert(70%);" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:cuthanhcam04@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-         width="28"
-         style="filter: invert(70%);" />
+    <picture>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
+           width="28"
+           style="filter: invert(70%);" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/cuthanhcam" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
-         width="28"
-         style="filter: invert(70%);" />
+    <picture>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
+           width="28"
+           style="filter: invert(70%);" />
+    </picture>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tc.jrk" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-         width="28"
-         style="filter: invert(70%);" />
+    <picture>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
+           width="28"
+           style="filter: invert(70%);" />
+    </picture>
   </a>
 </p>
