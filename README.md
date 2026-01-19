@@ -37,43 +37,9 @@ I value clean design, continuous improvement, and open discussions that turn com
 <h2>Contact</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/cuthanhcam" title="LinkedIn">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
-           width="28"
-           style="filter: invert(70%);" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/cuthanhcam" title="Discord">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
-           width="28"
-           style="filter: invert(70%);" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:cuthanhcam04@gmail.com" title="Email">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-           width="28"
-           style="filter: invert(70%);" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/cuthanhcam" title="Facebook">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
-           width="28"
-           style="filter: invert(70%);" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tc.jrk" title="Instagram">
-    <picture>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-           width="28"
-           style="filter: invert(70%);" />
-    </picture>
-  </a>
+  <a href="https://linkedin.com/in/cuthanhcam">LinkedIn</a> ·
+  <a href="https://discord.com/users/cuthanhcam">Discord</a> ·
+  <a href="mailto:cuthanhcam04@gmail.com">Email</a> ·
+  <a href="https://www.facebook.com/cuthanhcam">Facebook</a> ·
+  <a href="https://www.instagram.com/tc.jrk">Instagram</a>
 </p>
