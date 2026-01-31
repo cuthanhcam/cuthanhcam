@@ -19,7 +19,7 @@ I prefer depth over breadth: analyzing problems carefully, debugging subtle beha
 I value clean design, continuous improvement, and open discussions that turn complex problems into simple, effective solutions.
 </p>
 
-<h2>Profile Overview</h2>
+<!-- <h2>Profile Overview</h2>
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
   <img 
@@ -32,7 +32,7 @@ I value clean design, continuous improvement, and open discussions that turn com
     height="190" 
     alt="Languages Overview" 
   />
-</div>
+</div> -->
 
 <h2>Contact</h2>
 
