@@ -2,24 +2,12 @@
 
   <h1>👋 Hi, I'm Cu Thanh Cam</h1>
 
-  <p><strong>A developer who values clarity, correctness, and thoughtful problem-solving.</strong></p>
+  <p><strong>Software Engineer focused on clarity, correctness, and long-term maintainability.</strong></p>
   <p><em>"Make it run, make it right, make it fast."</em></p>
 
 </div>
 
-<h2>About Me</h2>
-
-<p>
-I enjoy using technology to build solutions that are clear, reliable, and efficient.
-What drives me most is understanding how systems work beneath the surface — how components interact, where trade-offs exist, and how stability and performance are maintained under pressure.
-</p>
-
-<p>
-I prefer depth over breadth: analyzing problems carefully, debugging subtle behaviors, and refining ideas until they are predictable and robust.
-I value clean design, continuous improvement, and open discussions that turn complex problems into simple, effective solutions.
-</p>
-
-<!-- <h2>Profile Overview</h2>
+<h2>Profile Overview</h2>
 
 <div align="center" style="display: flex; gap: 12px; justify-content: center;">
   <img 
@@ -32,7 +20,7 @@ I value clean design, continuous improvement, and open discussions that turn com
     height="190" 
     alt="Languages Overview" 
   />
-</div> -->
+</div>
 
 <h2>Contact</h2>
 
@@ -42,6 +30,6 @@ I value clean design, continuous improvement, and open discussions that turn com
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/cuthanhcam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cuthanhcam04@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/cuthanhcam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tc.jrk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cuthanhcam)
 
 </div>
