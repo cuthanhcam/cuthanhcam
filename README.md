@@ -1,34 +1,16 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Cu Thanh Cam</h1>
+# 👋 Hi, I'm Cu Thanh Cam - Charlie
 
-  <p><strong>Software Engineer focused on clarity, correctness, and long-term maintainability.</strong></p>
-  <p><em>"Make it run, make it right, make it fast."</em></p>
+**Software Engineer focused on clarity, correctness, and long-term maintainability.**
 
-</div>
+*“Make it run, make it right, make it fast.”*
 
-<h2>Profile Overview</h2>
-
-<div align="center" style="display: flex; gap: 12px; justify-content: center;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=cuthanhcam&show_icons=true&hide_border=true&bg_color=00000000&text_color=9f9f9f&icon_color=6e7681&title_color=adbac7&count_private=true&rank_icon=github&line_height=20" 
-    height="190" 
-    alt="Profile Stats" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuthanhcam&layout=compact&hide_border=true&bg_color=00000000&text_color=9f9f9f&title_color=adbac7&langs_count=6" 
-    height="190" 
-    alt="Languages Overview" 
-  />
-</div>
-
-<h2>Contact</h2>
-
-<div align="center">
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cuthanhcam)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/cuthanhcam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cuthanhcam04@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/cuthanhcam)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/cuthanhcam)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/cuthanhcam)
 
