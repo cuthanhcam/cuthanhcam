@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Cu Thanh Cam - Charlie
+# 👋 Hi, I'm Cu Thanh Cam (Charlie)
 
-**Software Engineer focused on clarity, correctness, and long-term maintainability.**
+**Software Engineer crafting software that is simple, reliable, and built to last.**
 
 *“Make it run, make it right, make it fast.”*
-
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/cuthanhcam)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cuthanhcam04@gmail.com)
