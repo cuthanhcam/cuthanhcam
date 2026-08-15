@@ -1,0 +1,56 @@
+{
+  "folders": [
+    { "name": "Aegis", "path": "../Aegis" },
+    { "name": "Lens of Charlie", "path": "../lens-of-charlie" },
+    { "name": "Forge", "path": "../orcace/forge" },
+    { "name": "Learn .NET", "path": "../learn-dotnet" },
+    { "name": "Learn Rust", "path": "../learn-rust" },
+    { "name": "Support · Docs", "path": "../docs" },
+    { "name": "Support · Temp", "path": "../temp" },
+    { "name": "Support · Other", "path": "../other" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.astro": true,
+      "**/bin": true,
+      "**/dist": true,
+      "**/node_modules": true,
+      "**/obj": true,
+      "**/target": true
+    },
+    "files.watcherExclude": {
+      "**/.git/**": true,
+      "**/.astro/**": true,
+      "**/bin/**": true,
+      "**/dist/**": true,
+      "**/node_modules/**": true,
+      "**/obj/**": true,
+      "**/target/**": true
+    },
+    "search.exclude": {
+      "**/.astro": true,
+      "**/bin": true,
+      "**/dist": true,
+      "**/node_modules": true,
+      "**/obj": true,
+      "**/target": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+  },
+  "extensions": {
+    "recommendations": [
+      "astro-build.astro-vscode",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "ms-dotnettools.csdevkit",
+      "rust-lang.rust-analyzer",
+      "tamasfe.even-better-toml",
+      "vadimcn.vscode-lldb"
+    ]
+  }
+}
